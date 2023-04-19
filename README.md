@@ -2,7 +2,7 @@
 
 ![banière](https://i.imgur.com/T34LnoQ.png)
 
-## About me
+# 👦 About me
 
 Hi! I'm a computer science student in the [University Paris 8](https://www.univ-paris8.fr/) in France. My favorite fields are software development, computer graphics, front-end and back-end web development, and machine learning. I'm open to any opportunity.
 
