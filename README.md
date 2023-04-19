@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**Yannise-A/Yannise-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![banière](https://i.imgur.com/T34LnoQ.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+Hi! I'm a computer science student in the [University Paris 8](https://www.univ-paris8.fr/) in France. My favorite fields are software development, computer graphics, front-end and back-end web development, and machine learning. I'm open to any opportunity.
+
+More information on my website: [yannise-a.fr](https://yannise-a.fr/)
+
+
+## Compétences
+
+Voici mes compétences dans différents domaines :
+
+| Software Development | Computer Graphics | Front-end Web | Back-end Web | Design |
+| ---------------------| ------------------| --------------| ------------| -------|
+| [liste de vos compétences ici] | [liste de vos compétences ici] | [liste de vos compétences ici] | [liste de vos compétences ici] | [liste de vos compétences ici] |
+
+
+## Contact
+
+[Insérez vos informations de contact ici, comme votre adresse e-mail ou votre profil LinkedIn.]
+
+## Projets
+
+[Insérez une liste de vos projets ici, avec des liens vers les dépôts correspondants ou des descriptions courtes pour chaque projet. Vous pouvez également inclure des captures d'écran ou des démonstrations pour illustrer votre travail.]
+
