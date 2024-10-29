@@ -109,3 +109,12 @@ This is a Python maze generator project that utilizes exhaustive search algorith
 
 <br>
 
+## [💮 HaruHana : Learn Japanese kana *(2024)*](https://github.com/Yannise-A/HaruHana)
+
+App to learn Japanese kana!
+
+<p align="center">
+	<a href="https://github.com/Yannise-A/HaruHana"><img src="https://i.imgur.com/1ObVVWV.png" width="500"></a>
+</p>
+
+<br>
