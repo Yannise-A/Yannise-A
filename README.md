@@ -118,3 +118,20 @@ App to learn Japanese kana!
 </p>
 
 <br>
+
+## [🔥 Show Your ELO: Faceit Stats *(2024)*](https://yannise-a.fr/build/)
+
+**Faceit Stats** is a platform designed to showcase your performance on Faceit. Search for any user to display their stats and easily share them, including on OBS with optimized dimensions for live streaming.
+
+<p align="center">
+	<a href="https://yannise-a.fr/build/"><img src="https://i.imgur.com/bA79J7D.png" width="500"></a>
+</p>
+
+**Key Features**:
+- Instant search for ELO of any Faceit player.
+- Clean design tailored for seamless integration with OBS.
+- Perfect for streamers and competitors who want to highlight their skills.
+
+Show off your level with **Faceit Stats** now!
+
+<br>
